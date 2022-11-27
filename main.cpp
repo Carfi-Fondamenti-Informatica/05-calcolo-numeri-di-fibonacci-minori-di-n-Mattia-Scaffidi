@@ -9,7 +9,7 @@ int main() {
 
     cout << a << "\n" << b << "\n";
 
-    for (int i = 2; i< n; i++) {
+    for (int i = 2; i<= n; i++) {
 
         c = a + b;
 
